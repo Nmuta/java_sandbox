@@ -47,9 +47,13 @@ String city_choice = JOptionPane.showInputDialog("Where do you live? ");
 
 ## You do :  (Exercise ) : 
 * Accept a user's name , and after that information is accepted, System.out 
-"Hello ______ , your name has ___ characters " ! 
+"Hello _name_ , your name has _number_ characters " !  
 
 
+
+
+## We do: 
+* Functions and function scope
 
 
 

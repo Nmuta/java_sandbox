@@ -19,11 +19,39 @@ import java.util.Arrays;
 
 ```
 
-### We do: 
+### I do: 
 * Compile and run a basic Java program using Atom and the command line. 
+* (If you're doing this at home, see https://github.com/gSchool/java-curriculum/tree/master/Unit-1-Syntax ) 
+
+### We do: 
+* (Same as above) : Compile and run a basic Java program using Atom and the command line. 
 
 
 ### We do: 
 * Set up a Java project in Eclipse 
-* video if you're stuck: https://github.com/Nmuta/java_sandbox/blob/master/JavaProjectSetup.mov
+* (video if you're stuck): https://github.com/Nmuta/java_sandbox/blob/master/JavaProjectSetup.mov
+
+### We do: 
+* Discuss variable types: int, double , float, String, boolean, char
+* Discuss arrays
+* Use System.out to manipulate and echo variables in the console
+* Use System.out in a loop to echo out all numbers in an array 
+* Discuss Strings and String concatenation
+
+## We do: 
+* Accepting input from the user 
+``` 
+String city_choice = JOptionPane.showInputDialog("Where do you live? ");
+
+``` 
+
+## You do :  (Exercise ) : 
+* Accept a user's name , and after that information is accepted, System.out 
+"Hello ______ , your name has ___ characters " ! 
+
+
+
+
+
+
 

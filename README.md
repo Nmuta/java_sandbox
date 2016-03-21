@@ -51,11 +51,11 @@ String city_choice = JOptionPane.showInputDialog("Where do you live? ");
 
 
 
-
-## We do: 
+## I do: 
 * Functions and function scope
 
-
+## You do: 
+* Outsource your "Hello _name_ .... written above " !  functionality to a function. 
 
 
 

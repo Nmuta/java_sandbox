@@ -57,5 +57,18 @@ String city_choice = JOptionPane.showInputDialog("Where do you live? ");
 ## You do: 
 * Outsource your "Hello _name_ .... written above " !  functionality to a function. 
 
+## I do: 
+* Demonstrate the use of Math.random 
+``` 
+int rand_num = new Random().nextInt(8);
+
+``` 
+## You do: 
+* Create a random array of food dishes.  In the code above, when you greet the user, greet them with a random food item from the list.  For example : 
+``` 
+Greetings, Jacq ! Please enjoy this plate of spaghetti . 
+
+```
+where spaghetti is a random food from the list. 
 
 
